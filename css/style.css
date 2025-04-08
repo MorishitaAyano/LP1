@@ -23,7 +23,7 @@ a {
   color: #FFF;
 }
 a:hover {
-  opacity: 0.8;
+  opacity: 0.5;
 }
 li {
   list-style-type: none;
@@ -37,11 +37,11 @@ li {
   display: grid;
   place-items: center;
   background-color: #ffa218;
-  max-width: 34.4%;
+  max-width: 33.4%;
   margin: 0 auto;
   font-size: 2.4rem;
   font-weight: bold;
-  padding: 3.5%;
+  padding: 2.7% 3%;
   border-radius: 9999px;
   box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.25);
 }
@@ -72,7 +72,7 @@ li {
 .header-wrap__nav__list {
   display: flex;
   align-items: center;
-  font-size: 2rem;
+  font-size: 1.8rem;
   gap: 25px;
 }
 .header-wrap__nav__list__item.__btn {
@@ -287,7 +287,7 @@ li {
 }
 .price-wrap__con__card__list__item {
   font-size: 1.6rem;
-  line-height: 1.25;
+  line-height: 1.7;
   list-style-type: unset;
 }
 .question-wrap__block__q {
@@ -373,10 +373,10 @@ li {
   display: grid;
   place-items: center;
   background-color: #ffa218;
-  max-width: 34.4%;
+  max-width: 33%;
   margin: 0 auto;
   font-weight: bold;
-  padding: 4.8% 6.7%;
+  padding: 3.2% 6.7%;
   border-radius: 9999px;
   box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.25);
   cursor: pointer;
@@ -396,7 +396,7 @@ li {
   background-color: unset;
 }
 .__form__btn:hover {
-  opacity: 0.8;
+  opacity: 0.5;
 }
 .footer {
   background: linear-gradient(0deg, #1067C4 90%, #302824 100%);
